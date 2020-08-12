@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fingureprint Test</string>
+    <string name="capture_fingerprint">Capture fingerprint</string>
+    <string name="capture_fingerprint_instruction_header">Capture customer fingerprint</string>
+    <string name="instruction1">- Place your right thumb on the device</string>
+    <string name="instruction2">- Press slightly until the confirmation is seen</string>
+    <string name="instruction3">- Click OK to save fingerprint</string>
+</resources>
